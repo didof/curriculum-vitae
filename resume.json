@@ -1,126 +1,147 @@
 {
    "basics": {
-   "name": "Francesco Di Donato",
-   "label": "Programmer",
-   "picture": "",
-   "email": "didonato.fr@gmail.com",
-   "phone": "(+39) 327 3452543",
-   "summary": "I like to spend a lot of my time finding ways to build my future. I found in programming a free world where knolewdge is free and shared. I’m going to go deeper and deeper into the world of front-end.",
-   "location": {
-      "address": "Via Gerolamo Forni 70",
-      "postalCode": "CAP 20161",
-      "city": "Milano",
-      "countryCode": "ITA",
-      "region": "Lombardy"
+      "name": "Francesco Di Donato",
+      "label": "Coder",
+      "picture": "",
+      "email": "didonato.fr@gmail.com",
+      "phone": "(+39) 327 3452543",
+      "summary": "Since I entered the world of code every morning I wake up adventurous to complete the challenges that a code too intricate has left open the night before; I enjoy the freedom and sharing of knowledge that takes place on the web. I like to tru my hand at building attractive interfaces and I feel deeply fascinated by the accuracy hidden behind a well-made server. I am constantly loking for carefully sought solutions and new concepts that can enhance my programming skills.",
+      "location": {
+         "address": "Via Gerolamo Forni 70",
+         "postalCode": "CAP 20161",
+         "city": "Milano",
+         "countryCode": "ITA",
+         "region": "Lombardy"
+      },
+      "profiles": [
+         {
+            "network": "GitHub",
+            "username": "prostagm4",
+            "url": "https://github.com/didof"
+         }
+      ]
    },
-   
-   "profiles": [
-      {
-         "network": "GitHub",
-         "username": "prostagm4",
-         "url": "https://github.com/prostagm4"
-      }
-   ]
-},
-"skills": [
+   "skills": [
       {
          "name": "Front-end Development",
          "level": "Average",
          "keywords": [
             "HTML",
+            "HTML5",
             "CSS",
-            "Bootstrap", "Material-UI", "Bulma", "Tailwind",
+            "Bootstrap",
+            "Material-UI",
+            "Bulma",
+            "Tailwind",
             "Javascript",
+            "PHP",
             "React",
             "React Hooks",
             "Redux",
-            "Svelte"
+            "Svelte",
+            "Hugo"
          ]
       },
       {
          "name": "Back-end Development",
-         "level": "Basic",
+         "level": "Average",
          "keywords": [
             "Node.js",
             "Express",
+            "JWT",
+            "Passport.js",
+            "API, RESTful API, GraphQL",
             "Next.js",
             "Sapper"
          ]
       }
    ],
-"work": [
+   "work": [
       {
-      "company": "Fem2-Ambiente srl",
-      "position": "Intern",
-      "website": "https://www.fem2ambiente.com",
-      "startDate": "2018-09-01",
-      "endDate": "2018-11-01",
-            "highlights": [
-   "Bird sexting by genomic analysis",
-                  "Chemical, physical, bacterial analysis of water samples",
-                  "Electrophoresis methods"
- ]
-   },
-   {
-      "company": "Ostelzzz srl",
-      "position": "Receptionist front desk",
-      "website": "http://www.ostelzzz.com",
-      "startDate": "2019-02-13",
+         "company": "Fem2-Ambiente srl",
+         "position": "Intern",
+         "website": "https://www.fem2ambiente.com",
+         "startDate": "2018-09-01",
+         "endDate": "2018-11-01",
+         "highlights": [
+            "Bird sexting by genomic analysis",
+            "Chemical, physical, bacterial analysis of water samples",
+            "Electrophoresis methods"
+         ]
+      },
+      {
+         "company": "Ostelzzz srl",
+         "position": "Receptionist front desk",
+         "website": "http://www.ostelzzz.com",
+         "startDate": "2019-02-13",
          "summary": "In addition to bringing me to a better understanding of the English language, it is allowing me to self-finance my web developing studies. This job allowed me to know the working reality immediately after the academic one.",
          "highlights": [
-   "Customer service",
-                  "Staff organization",
-                  "International Context"
- ]
-   }
-],
-"education": [
-   {
-      "institution": "University",
-      "area": "Biotechnology",
-      "studyType": "Bachelor's Degree",
+            "consulting/helping internal web development department",
+            "Customer service",
+            "Staff organization",
+            "International Context"
+         ]
+      }
+   ],
+   "publications": [
+      {
+      "name": "Express server template",
+      "releaseDate": "2020-04-22",
+      "website": "https://github.com/didof/backend-template",
+      "summary": "My personal setup for an express app that uses mongoose to establish a connection with MongoDB and passport.js in order to manage the authentication of users."
+    },
+      {
+      "name": "Study of Next.js",
+      "releaseDate": "2020-04-27",
+      "website": "https://github.com/didof/next.js-sandbox",
+      "summary": "This project (still ongoing) implements a custom server within the next.js frame. Featuring passport.js, mongoose, material-UI, it also shows an elaborate internal architecture based on the concept of DRY. In this project both SSR and Static Generation are used."
+    }
+   ],
+   "education": [
+      {
+         "institution": "University",
+         "area": "Biotechnology",
+         "studyType": "Bachelor's Degree",
          "startDate": "2015-09-10",
          "endDate": "2019-02-11",
          "courses": [
-   "Bacteriology",
-               "Immunology",
-               "Carcinogenesis",
-               "Laboratory methods"
-               
-           
- ]
-   }
-],
-"languages": [
-   {
-      "language": "Italian",
-      "fluency": "Native speaker"
-   },
-   {
-      "language": "English",
-      "fluency": "Fluent speaker"
-   },
-   {
-      "language": "Spanish",
-      "fluency": "Basic speaker"
-   }
-],
-"interests": [
-   {
-      "name": "Guitar playing",
-      "keywords": [
-         "Classical",
-         "Country",
-         "Metal"
-      ]
-   },
-   {
-      "name": "Reading books",
-      "keywords": [
-         "Sci-fi",
-         "Sherlock Holmes",
-         "Steven King"
-      ]
-   }
-]
+            "Bacteriology",
+            "Immunology",
+            "Carcinogenesis",
+            "Laboratory methods"
+         ]
+      }
+   ],
+   "languages": [
+      {
+         "language": "Italian",
+         "fluency": "Native speaker"
+      },
+      {
+         "language": "English",
+         "fluency": "Fluent speaker"
+      },
+      {
+         "language": "Spanish",
+         "fluency": "Basic speaker"
+      }
+   ],
+   "interests": [
+      {
+         "name": "Guitar playing",
+         "keywords": [
+            "Classical",
+            "Country",
+            "Metal"
+         ]
+      },
+      {
+         "name": "Reading books",
+         "keywords": [
+            "Sci-fi",
+            "Sherlock Holmes",
+            "Steven King"
+         ]
+      }
+   ]
 }
