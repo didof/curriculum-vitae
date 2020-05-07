@@ -50,7 +50,7 @@
             "Express",
             "JWT",
             "Passport.js",
-            "API, RESTful API, GraphQL",
+            "API", "RESTful API", "GraphQL",
             "Next.js",
             "Sapper"
          ]
