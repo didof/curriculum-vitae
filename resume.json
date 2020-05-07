@@ -5,7 +5,7 @@
       "picture": "",
       "email": "didonato.fr@gmail.com",
       "phone": "(+39) 327 3452543",
-      "summary": "Since I entered the world of code every morning I wake up adventurous to complete the challenges that a code too intricate has left open the night before; I enjoy the freedom and sharing of knowledge that takes place on the web. I like to try my hand at building attractive interfaces and I feel deeply fascinated by the accuracy hidden behind a well-made server. I am constantly looking for carefully sought solutions and new concepts that can enhance my programming skills.",
+      "summary": "Since I entered the world of code every morning I wake up adventurous to complete the challenges that a code too intricate has left open the night before; I enjoy the freedom and sharing of knowledge that takes place on the web. \nI like to try my hand at building attractive interfaces and I feel deeply fascinated by the accuracy hidden behind a well-made server. I am constantly looking for carefully sought solutions and new concepts that can enhance my programming skills.",
       "location": {
          "address": "Via Gerolamo Forni 70",
          "postalCode": "CAP 20161",
@@ -23,18 +23,23 @@
    },
    "skills": [
       {
+         "name": "Languages",
+         "level": "Average",
+         "keywords": [
+            "Javascript",
+            "PHP"
+         ]
+      },
+      {
          "name": "Front-end Development",
          "level": "Average",
          "keywords": [
-            "HTML",
             "HTML5",
             "CSS",
             "Bootstrap",
             "Material-UI",
             "Bulma",
             "Tailwind",
-            "Javascript",
-            "PHP",
             "React",
             "React Hooks",
             "Redux",
@@ -50,25 +55,15 @@
             "Express",
             "JWT",
             "Passport.js",
-            "API", "RESTful API", "GraphQL",
+            "API",
+            "RESTful API",
+            "GraphQL",
             "Next.js",
             "Sapper"
          ]
       }
    ],
    "work": [
-      {
-         "company": "Fem2-Ambiente srl",
-         "position": "Intern",
-         "website": "https://www.fem2ambiente.com",
-         "startDate": "2018-09-01",
-         "endDate": "2018-11-01",
-         "highlights": [
-            "Bird sexting by genomic analysis",
-            "Chemical, physical, bacterial analysis of water samples",
-            "Electrophoresis methods"
-         ]
-      },
       {
          "company": "Ostelzzz srl",
          "position": "Receptionist front desk",
@@ -81,21 +76,33 @@
             "Staff organization",
             "International Context"
          ]
+      },
+      {
+         "company": "Fem2-Ambiente srl",
+         "position": "Intern",
+         "website": "https://www.fem2ambiente.com",
+         "startDate": "2018-09-01",
+         "endDate": "2018-11-01",
+         "highlights": [
+            "Bird sexting by genomic analysis",
+            "Chemical, physical, bacterial analysis of water samples",
+            "Electrophoresis methods"
+         ]
       }
    ],
    "publications": [
       {
-      "name": "Express server template",
-      "releaseDate": "2020-04-22",
-      "website": "https://github.com/didof/backend-template",
-      "summary": "My personal setup for an express app that uses mongoose to establish a connection with MongoDB and passport.js in order to manage the authentication of users."
-    },
+         "name": "Express server template",
+         "releaseDate": "2020-04-22",
+         "website": "https://github.com/didof/backend-template",
+         "summary": "My personal setup for an express app that uses mongoose to establish a connection with MongoDB and passport.js in order to manage the authentication of users."
+      },
       {
-      "name": "Study of Next.js",
-      "releaseDate": "2020-04-27",
-      "website": "https://github.com/didof/next.js-sandbox",
-      "summary": "This project (still ongoing) implements a custom server within the next.js frame. Featuring passport.js, mongoose, material-UI, it also shows an elaborate internal architecture based on the concept of DRY. In this project both SSR and Static Generation are used."
-    }
+         "name": "Study of Next.js",
+         "releaseDate": "2020-04-27",
+         "website": "https://github.com/didof/next.js-sandbox",
+         "summary": "This project (still ongoing) implements a custom server within the next.js frame. Featuring passport.js, mongoose, material-UI, it also shows an elaborate internal architecture based on the concept of DRY. In this project both SSR and Static Generation are used."
+      }
    ],
    "education": [
       {
